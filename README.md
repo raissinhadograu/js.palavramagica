@@ -1,1 +1,1 @@
-# js.pingpong
+# js.palavramágica
